@@ -1,0 +1,29 @@
+{
+  "name": "04_04",
+  "version": "1.0.0",
+  "description": "This project is an example of workflow management for a lynda.com course.",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "compass": "^0.1.1",
+    "g": "^2.0.1",
+    "gulp": "^4.0.2",
+    "gulp-browserify": "^0.5.1",
+    "gulp-coffee": "^3.0.3",
+    "gulp-compass": "^2.1.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect": "^5.7.0",
+    "gulp-if": "^3.0.0",
+    "gulp-jsonminify": "^1.1.0",
+    "gulp-minify-html": "^1.0.6",
+    "gulp-uglify": "^3.0.2",
+    "gulp-util": "^3.0.8",
+    "jquery": "^3.4.1",
+    "mustache": "^4.0.0",
+    "ruby": "^0.6.1"
+  },
+  "devDependencies": {
+    "gulp-imagemin": "^7.1.0",
+    "imagemin-pngcrush": "^6.0.0"
+  }
+}
