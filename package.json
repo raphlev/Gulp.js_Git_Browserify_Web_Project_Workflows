@@ -18,7 +18,7 @@
     "gulp-minify-html": "^1.0.6",
     "gulp-uglify": "^3.0.2",
     "gulp-util": "^3.0.8",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "mustache": "^4.0.0",
     "ruby": "^0.6.1"
   },
